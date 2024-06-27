@@ -19,7 +19,7 @@ namespace BitcoinAuto.Withdraw
 
         public async Task sendNotificationForNewTransaction()
         {
-            await botClient.SendTextMessageAsync(chatID, "huy");
+            await botClient.SendTextMessageAsync(chatID, "@Mgarstone");
         }
 
         public async Task sendNotification(string message)
